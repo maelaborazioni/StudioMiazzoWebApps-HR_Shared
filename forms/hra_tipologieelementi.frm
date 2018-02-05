@@ -1,0 +1,15 @@
+dataSource:"db:/ma_hr/tabtipologieelementi",
+extendsID:"E1B6951E-8C22-4464-9B19-707548D2B2DE",
+items:[
+{
+height:480,
+partType:5,
+typeid:19,
+uuid:"A8401142-F588-4DF3-BEA4-1C4F9D9E81BE"
+}
+],
+name:"hra_tipologieelementi",
+size:"400,480",
+styleName:"leaf_style",
+typeid:3,
+uuid:"CB4A9425-9B58-45E9-9BF2-3A9C39EBEC0D"

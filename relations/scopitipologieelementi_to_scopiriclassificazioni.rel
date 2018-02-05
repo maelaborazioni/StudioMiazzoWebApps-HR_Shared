@@ -1,0 +1,13 @@
+allowCreationRelatedRecords:false,
+allowParentDeleteWhenHavingRelatedRecords:true,
+deleteRelatedRecords:true,
+foreignDataSource:"db:/ma_hr/dittescopiriclassificazioni",
+items:[
+{foreignColumnName:"idscopo",operator:0,primaryDataProviderID:"idscopo",typeid:23,uuid:"00149AF1-85C4-492C-B42D-DBF1964FCB14"},
+{foreignColumnName:"idtipologiaelemento",operator:0,primaryDataProviderID:"idtipologiaelemento",typeid:23,uuid:"8F68F769-618B-482D-A622-A8DA9701D2B4"}
+],
+joinType:0,
+name:"scopitipologieelementi_to_scopiriclassificazioni",
+primaryDataSource:"db:/ma_hr/scopitipologieelementi",
+typeid:22,
+uuid:"CF9D4198-64E5-46CA-8FA9-49A5DC4AB00E"

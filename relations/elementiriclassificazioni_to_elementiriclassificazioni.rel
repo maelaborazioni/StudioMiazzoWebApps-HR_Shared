@@ -1,0 +1,7 @@
+allowCreationRelatedRecords:false,
+foreignDataSource:"db:/ma_hr/ditteelementiriclassificazioni",
+joinType:0,
+name:"elementiriclassificazioni_to_elementiriclassificazioni",
+primaryDataSource:"db:/ma_hr/ditteelementiriclassificazioni",
+typeid:22,
+uuid:"12A8726C-B2CC-4993-A63E-055862D044A0"

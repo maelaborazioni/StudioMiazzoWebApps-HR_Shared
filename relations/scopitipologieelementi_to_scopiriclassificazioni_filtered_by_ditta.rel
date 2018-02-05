@@ -1,0 +1,14 @@
+allowCreationRelatedRecords:false,
+allowParentDeleteWhenHavingRelatedRecords:true,
+deleteRelatedRecords:true,
+foreignDataSource:"db:/ma_hr/dittescopiriclassificazioni",
+items:[
+{foreignColumnName:"idtipologiaelemento",operator:0,primaryDataProviderID:"idtipologiaelemento",typeid:23,uuid:"D305668F-984F-47D5-AEB3-959E67EB9C5D"},
+{foreignColumnName:"idditta",operator:0,primaryDataProviderID:"globals.vEmployeeCurrentEmployerConvertedID",typeid:23,uuid:"E6BAB23B-B739-4093-AA6C-34B9FE3B8A6E"},
+{foreignColumnName:"idscopo",operator:0,primaryDataProviderID:"idscopo",typeid:23,uuid:"EA2031C9-7063-4D1E-ADDE-C39DD5736159"}
+],
+joinType:0,
+name:"scopitipologieelementi_to_scopiriclassificazioni_filtered_by_ditta",
+primaryDataSource:"db:/ma_hr/scopitipologieelementi",
+typeid:22,
+uuid:"4C1640E4-F2CD-4D3A-B5D9-D79FFE8CA076"

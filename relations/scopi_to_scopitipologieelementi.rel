@@ -1,0 +1,12 @@
+allowCreationRelatedRecords:true,
+allowParentDeleteWhenHavingRelatedRecords:true,
+deleteRelatedRecords:true,
+foreignDataSource:"db:/ma_hr/scopitipologieelementi",
+items:[
+{foreignColumnName:"idscopo",operator:0,primaryDataProviderID:"idscopo",typeid:23,uuid:"35B79DA8-042C-418C-8318-703262C5B2FE"}
+],
+joinType:0,
+name:"scopi_to_scopitipologieelementi",
+primaryDataSource:"db:/ma_hr/tabscopi",
+typeid:22,
+uuid:"4E9B0E7C-3B9C-4C61-92AE-DCD24494FC9E"

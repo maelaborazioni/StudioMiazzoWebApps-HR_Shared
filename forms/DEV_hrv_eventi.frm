@@ -1,0 +1,15 @@
+dataSource:"db:/ma_hr/hrv_eventi",
+extendsID:"-1",
+items:[
+{
+height:480,
+partType:5,
+typeid:19,
+uuid:"83B37689-ADAC-48B0-A079-A6583848FE58"
+}
+],
+name:"DEV_hrv_eventi",
+showInMenu:true,
+size:"640,480",
+typeid:3,
+uuid:"7A04854E-B307-4051-91FA-90029329A9B2"

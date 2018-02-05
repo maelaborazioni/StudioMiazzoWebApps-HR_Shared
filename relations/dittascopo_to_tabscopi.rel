@@ -1,0 +1,10 @@
+allowCreationRelatedRecords:false,
+foreignDataSource:"db:/ma_hr/tabscopi",
+items:[
+{foreignColumnName:"idscopo",operator:0,primaryDataProviderID:"idscopo",typeid:23,uuid:"A709AFA4-13BE-4AF1-BA01-B51FFCE07A73"}
+],
+joinType:1,
+name:"dittascopo_to_tabscopi",
+primaryDataSource:"db:/ma_hr/dittascopo",
+typeid:22,
+uuid:"89467BD7-48AE-4E43-B645-8A065F47152B"

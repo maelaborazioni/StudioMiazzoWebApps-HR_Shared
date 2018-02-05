@@ -1,0 +1,10 @@
+allowCreationRelatedRecords:false,
+foreignDataSource:"db:/ma_hr/scopitipologieelementi",
+items:[
+{foreignColumnName:"idscopo",operator:0,primaryDataProviderID:"idscopo",typeid:23,uuid:"CEEA20FF-EBF4-4DEE-9480-65CD1C03525A"}
+],
+joinType:1,
+name:"dittascopo_to_scopitipologieelementi",
+primaryDataSource:"db:/ma_hr/dittascopo",
+typeid:22,
+uuid:"D49A598E-1505-4462-A7CA-63845AAD117F"

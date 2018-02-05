@@ -1,0 +1,8 @@
+allowCreationRelatedRecords:false,
+deleteRelatedRecords:false,
+foreignDataSource:"db:/ma_hr/dittescopiriclassificazioni",
+joinType:0,
+name:"scopiriclassificazioni_to_scopiriclassificazioni",
+primaryDataSource:"db:/ma_hr/dittescopiriclassificazioni",
+typeid:22,
+uuid:"D250CBDF-A119-48D1-B4BF-7948D462C0B6"

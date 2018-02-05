@@ -1,0 +1,12 @@
+allowCreationRelatedRecords:true,
+allowParentDeleteWhenHavingRelatedRecords:true,
+deleteRelatedRecords:true,
+foreignDataSource:"db:/ma_hr/dittescopiriclassificazioni",
+items:[
+{foreignColumnName:"idscopo",operator:0,primaryDataProviderID:"idscopo",typeid:23,uuid:"B58D5F27-C757-4A40-A7CF-BD56BC8FEEF6"}
+],
+joinType:0,
+name:"scopi_to_scopiriclassificazioni",
+primaryDataSource:"db:/ma_hr/tabscopi",
+typeid:22,
+uuid:"724088BE-F2D0-4247-9635-1BEC4A33EC9D"

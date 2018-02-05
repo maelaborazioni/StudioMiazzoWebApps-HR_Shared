@@ -1,0 +1,9 @@
+addEmptyValue:1,
+customValues:"Competenza|1
+Trattenuta|-1
+Statistico|0",
+name:"vls_segno",
+returnDataProviders:1,
+showDataProviders:1,
+typeid:34,
+uuid:"F32664C5-B4AC-4322-AEE5-B53193FCA38E"

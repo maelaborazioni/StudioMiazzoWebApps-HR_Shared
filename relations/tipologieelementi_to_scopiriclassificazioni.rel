@@ -1,0 +1,11 @@
+allowCreationRelatedRecords:false,
+deleteRelatedRecords:true,
+foreignDataSource:"db:/ma_hr/dittescopiriclassificazioni",
+items:[
+{foreignColumnName:"idtipologiaelemento",operator:0,primaryDataProviderID:"idtipologiaelemento",typeid:23,uuid:"E80DB3C2-BB62-41A8-8E22-A7DD4EDE73A6"}
+],
+joinType:0,
+name:"tipologieelementi_to_scopiriclassificazioni",
+primaryDataSource:"db:/ma_hr/tabtipologieelementi",
+typeid:22,
+uuid:"1515F770-2B6D-4812-8BEE-8628689E5122"

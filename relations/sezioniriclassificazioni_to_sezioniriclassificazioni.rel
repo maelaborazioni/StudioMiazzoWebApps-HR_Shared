@@ -1,0 +1,7 @@
+allowCreationRelatedRecords:false,
+foreignDataSource:"db:/ma_hr/dittesezioniriclassificazioni",
+joinType:0,
+name:"sezioniriclassificazioni_to_sezioniriclassificazioni",
+primaryDataSource:"db:/ma_hr/dittesezioniriclassificazioni",
+typeid:22,
+uuid:"632F3BD1-D2F6-4503-9FEE-511E6E7A6DF5"

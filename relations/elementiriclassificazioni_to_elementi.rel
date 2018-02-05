@@ -1,0 +1,12 @@
+allowCreationRelatedRecords:false,
+allowParentDeleteWhenHavingRelatedRecords:true,
+deleteRelatedRecords:false,
+foreignDataSource:"db:/ma_hr/contrattielementi",
+items:[
+{foreignColumnName:"idcontrattoelemento",operator:0,primaryDataProviderID:"idtabella",typeid:23,uuid:"F8F99526-19B7-4149-9CCF-2462BABCA0A2"}
+],
+joinType:0,
+name:"elementiriclassificazioni_to_elementi",
+primaryDataSource:"db:/ma_hr/ditteelementiriclassificazioni",
+typeid:22,
+uuid:"76DDB591-0ED0-4C0F-9CBA-1AEEC91C207E"

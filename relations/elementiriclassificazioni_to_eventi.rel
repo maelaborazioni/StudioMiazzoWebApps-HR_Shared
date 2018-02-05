@@ -1,0 +1,12 @@
+allowCreationRelatedRecords:false,
+allowParentDeleteWhenHavingRelatedRecords:true,
+deleteRelatedRecords:false,
+foreignDataSource:"db:/ma_hr/hrv_eventiproprieta",
+items:[
+{foreignColumnName:"ideventoproprieta",operator:0,primaryDataProviderID:"idtabella",typeid:23,uuid:"7A290959-1664-40CC-8221-097C468BF314"}
+],
+joinType:0,
+name:"elementiriclassificazioni_to_eventi",
+primaryDataSource:"db:/ma_hr/ditteelementiriclassificazioni",
+typeid:22,
+uuid:"D39694E9-E49C-4179-8563-D4DA2761266F"

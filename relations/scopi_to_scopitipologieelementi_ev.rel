@@ -1,0 +1,13 @@
+allowCreationRelatedRecords:true,
+allowParentDeleteWhenHavingRelatedRecords:true,
+deleteRelatedRecords:true,
+foreignDataSource:"db:/ma_hr/scopitipologieelementi",
+items:[
+{foreignColumnName:"codtipologiaelemento",operator:0,primaryDataProviderID:"globals.codEVENTI",typeid:23,uuid:"B78A9D5F-1BCB-47BE-895C-30AFDBB74BB2"},
+{foreignColumnName:"idscopo",operator:0,primaryDataProviderID:"idscopo",typeid:23,uuid:"FAD492E3-6365-4925-8382-466A652DF2D8"}
+],
+joinType:0,
+name:"scopi_to_scopitipologieelementi_ev",
+primaryDataSource:"db:/ma_hr/tabscopi",
+typeid:22,
+uuid:"3C0FA7E7-F177-4D36-8EBD-3AD559193A66"

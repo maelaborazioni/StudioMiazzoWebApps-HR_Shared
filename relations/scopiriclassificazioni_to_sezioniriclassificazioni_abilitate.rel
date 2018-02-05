@@ -1,0 +1,13 @@
+allowCreationRelatedRecords:true,
+allowParentDeleteWhenHavingRelatedRecords:true,
+deleteRelatedRecords:true,
+foreignDataSource:"db:/ma_hr/dittesezioniriclassificazioni",
+items:[
+{foreignColumnName:"iddittascoporiclassificazione",operator:0,primaryDataProviderID:"iddittascoporiclassificazione",typeid:23,uuid:"2C9BBBA1-1A6F-47FE-9421-8EF51C3C3D81"},
+{foreignColumnName:"abilitato",operator:0,primaryDataProviderID:"globals.TRUE",typeid:23,uuid:"E1AF2705-B7BC-46D4-8ECE-CEF3E16AA8EA"}
+],
+joinType:0,
+name:"scopiriclassificazioni_to_sezioniriclassificazioni_abilitate",
+primaryDataSource:"db:/ma_hr/dittescopiriclassificazioni",
+typeid:22,
+uuid:"7C11BCE1-4C9E-4F8B-8A31-25C07AB44106"

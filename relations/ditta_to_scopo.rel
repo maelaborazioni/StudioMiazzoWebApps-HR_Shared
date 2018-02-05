@@ -1,0 +1,12 @@
+allowCreationRelatedRecords:true,
+allowParentDeleteWhenHavingRelatedRecords:true,
+deleteRelatedRecords:true,
+foreignDataSource:"db:/ma_hr/dittascopo",
+items:[
+{foreignColumnName:"idditta",operator:0,primaryDataProviderID:"idditta_sede",typeid:23,uuid:"A4C96136-1191-46E6-8527-11FD15B46092"}
+],
+joinType:1,
+name:"ditta_to_scopo",
+primaryDataSource:"db:/ma_anagrafiche/ditte",
+typeid:22,
+uuid:"595E74CE-2AED-4861-8FB2-CD7B7EA94EC4"

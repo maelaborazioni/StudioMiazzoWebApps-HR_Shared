@@ -1,0 +1,10 @@
+allowCreationRelatedRecords:false,
+foreignDataSource:"db:/ma_hr/contratti",
+items:[
+{foreignColumnName:"codcontratto",operator:0,primaryDataProviderID:"codcontratto",typeid:23,uuid:"8A6142D5-84BB-4DB1-9254-5700CB371CAA"}
+],
+joinType:0,
+name:"contrattielementi_to_contratti",
+primaryDataSource:"db:/ma_hr/contrattielementi",
+typeid:22,
+uuid:"A913C9DE-9AAB-4781-83CE-4FF18AEFA15E"

@@ -1,0 +1,7 @@
+allowCreationRelatedRecords:false,
+foreignDataSource:"db:/ma_hr/tabscopi",
+joinType:0,
+name:"scopi_to_scopi",
+primaryDataSource:"db:/ma_hr/tabscopi",
+typeid:22,
+uuid:"099499F4-B6CB-4086-A011-00FF151D59EE"

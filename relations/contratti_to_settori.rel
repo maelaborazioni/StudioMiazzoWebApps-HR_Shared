@@ -1,0 +1,11 @@
+allowCreationRelatedRecords:false,
+deleteRelatedRecords:false,
+foreignDataSource:"db:/ma_hr/tabtiposettore",
+items:[
+{foreignColumnName:"codice",operator:0,primaryDataProviderID:"codsettore",typeid:23,uuid:"091B5011-EF1F-4D08-B2FD-8CD6D8AF2DB7"}
+],
+joinType:0,
+name:"contratti_to_settori",
+primaryDataSource:"db:/ma_hr/contratti",
+typeid:22,
+uuid:"8CC69D47-2A3B-4DEE-8DB0-382765512394"

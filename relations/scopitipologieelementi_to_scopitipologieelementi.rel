@@ -1,0 +1,7 @@
+allowCreationRelatedRecords:false,
+foreignDataSource:"db:/ma_hr/scopitipologieelementi",
+joinType:0,
+name:"scopitipologieelementi_to_scopitipologieelementi",
+primaryDataSource:"db:/ma_hr/scopitipologieelementi",
+typeid:22,
+uuid:"E2492D62-3FCF-41F5-B6A1-6E33DF5C23F9"

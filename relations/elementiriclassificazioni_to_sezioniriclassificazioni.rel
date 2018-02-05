@@ -1,0 +1,11 @@
+allowCreationRelatedRecords:false,
+allowParentDeleteWhenHavingRelatedRecords:true,
+foreignDataSource:"db:/ma_hr/dittesezioniriclassificazioni",
+items:[
+{foreignColumnName:"iddittasezionericlassificazione",operator:0,primaryDataProviderID:"iddittasezionericlassificazione",typeid:23,uuid:"8F97A885-78C3-4A58-BC3B-72FB220D578B"}
+],
+joinType:0,
+name:"elementiriclassificazioni_to_sezioniriclassificazioni",
+primaryDataSource:"db:/ma_hr/ditteelementiriclassificazioni",
+typeid:22,
+uuid:"10018402-030B-4154-9D17-0A630D5F56F2"

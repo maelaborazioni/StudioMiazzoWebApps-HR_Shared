@@ -1,0 +1,11 @@
+allowCreationRelatedRecords:false,
+allowParentDeleteWhenHavingRelatedRecords:true,
+foreignDataSource:"db:/ma_hr/tabtipologieelementi",
+items:[
+{foreignColumnName:"idtipologiaelemento",operator:0,primaryDataProviderID:"idtipologiaelemento",typeid:23,uuid:"9731D352-6A1E-47F3-9C03-BAF47C37D5AF"}
+],
+joinType:0,
+name:"scopiriclassificazioni_to_tipologieelementi",
+primaryDataSource:"db:/ma_hr/dittescopiriclassificazioni",
+typeid:22,
+uuid:"9478260A-723E-4E8E-B152-D7CC4237F4B2"

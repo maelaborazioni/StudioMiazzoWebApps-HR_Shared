@@ -1,0 +1,12 @@
+allowCreationRelatedRecords:true,
+allowParentDeleteWhenHavingRelatedRecords:true,
+deleteRelatedRecords:true,
+foreignDataSource:"db:/ma_hr/dittesezioniriclassificazioni",
+items:[
+{foreignColumnName:"iddittascoporiclassificazione",operator:0,primaryDataProviderID:"iddittascoporiclassificazione",typeid:23,uuid:"8815B406-55A8-4F77-A4BD-9E84775A1AAD"}
+],
+joinType:0,
+name:"scopiriclassificazioni_to_sezioniriclassificazioni",
+primaryDataSource:"db:/ma_hr/dittescopiriclassificazioni",
+typeid:22,
+uuid:"F60F3061-2445-41B8-92F9-575807A0D12A"

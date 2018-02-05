@@ -1,0 +1,10 @@
+allowCreationRelatedRecords:false,
+foreignDataSource:"db:/ma_hr/tabtipologieelementi",
+items:[
+{foreignColumnName:"idtipologiaelemento",operator:0,primaryDataProviderID:"idtipologiaelemento",typeid:23,uuid:"6F616927-E36B-4F64-A36F-B74242D89CFD"}
+],
+joinType:0,
+name:"scopitipologieelementi_to_tipologieelementi",
+primaryDataSource:"db:/ma_hr/scopitipologieelementi",
+typeid:22,
+uuid:"596F76F8-57F6-47DD-9745-39DC85E30B5D"

@@ -1,0 +1,12 @@
+allowCreationRelatedRecords:false,
+allowParentDeleteWhenHavingRelatedRecords:true,
+deleteRelatedRecords:false,
+foreignDataSource:"db:/ma_hr/contrattivoci",
+items:[
+{foreignColumnName:"idcontrattovoce",operator:0,primaryDataProviderID:"idtabella",typeid:23,uuid:"3CF77F5E-1F53-461C-AA30-9145660ED639"}
+],
+joinType:0,
+name:"elementiriclassificazioni_to_voci",
+primaryDataSource:"db:/ma_hr/ditteelementiriclassificazioni",
+typeid:22,
+uuid:"0E58090A-C358-4502-B8F2-5F4CBFC67685"
