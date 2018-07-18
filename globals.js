@@ -393,7 +393,7 @@ function validateSedeCodice(record)
  */
 function validateScopoRiclassificazione(record)
 {
-	/** @type {JSFoundset<db:/ma_hr/dittescopiriclassificazioni>} */
+	/** @type {JSFoundSet<db:/ma_hr/dittescopiriclassificazioni>} */
 	var fs = databaseManager.getFoundSet(record.getDataSource())
 	if(fs.find())
 	{
